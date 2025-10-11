@@ -1,4 +1,3 @@
-
 ---
 title: "Gestenerkennung"
 date: "2018-10-01T13:56:33.000Z"
