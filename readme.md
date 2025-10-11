@@ -22,7 +22,7 @@ embedded_example_file: "examples/Grove_Gesture_v1.0_minimal/Grove_Gesture_v1.0_m
 
 # Gestenerkennung
 
-![Gestenerkennung](34_gestenerkennung.jpg)
+![Gestenerkennung](./34_gestenerkennung.jpg)
 
 ## Beschreibung
 Der Sensor für Gestenerkennung erkennt bis zu neun vorprogrammierte Handbewegungen, die unmittelbar vor oder über ihm ausgeführt werden. Als mögliche Handbewegung ist beispielsweise ein Wischen oder eine Drehbewegung der Finger denkbar. So lässt sich ein angeschlossener Mikrocontroller steuern.
